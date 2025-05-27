@@ -1,9 +1,9 @@
-C:\Users\Axel\OneDrive\Escritorio\negocio\bin\Debug\negocio.dll
-C:\Users\Axel\OneDrive\Escritorio\negocio\bin\Debug\negocio.pdb
+C:\Users\Axel\OneDrive\Escritorio\negocio\bin\Debug\Negocio.dll
+C:\Users\Axel\OneDrive\Escritorio\negocio\bin\Debug\Negocio.pdb
 C:\Users\Axel\OneDrive\Escritorio\negocio\bin\Debug\dominio.dll
 C:\Users\Axel\OneDrive\Escritorio\negocio\bin\Debug\dominio.pdb
 C:\Users\Axel\OneDrive\Escritorio\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
 C:\Users\Axel\OneDrive\Escritorio\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
 C:\Users\Axel\OneDrive\Escritorio\negocio\obj\Debug\negocio.csproj.Up2Date
-C:\Users\Axel\OneDrive\Escritorio\negocio\obj\Debug\negocio.dll
-C:\Users\Axel\OneDrive\Escritorio\negocio\obj\Debug\negocio.pdb
+C:\Users\Axel\OneDrive\Escritorio\negocio\obj\Debug\Negocio.dll
+C:\Users\Axel\OneDrive\Escritorio\negocio\obj\Debug\Negocio.pdb

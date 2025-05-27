@@ -53,13 +53,23 @@ namespace negocio
             }
             catch (Exception ex)
             {
-                throw ex;
+                throw;
             }
         }
 
         public void setearParametro(string nombre, object valor)
         {
             comando.Parameters.AddWithValue(nombre, valor);
+        }
+
+
+        public void setearProcedimiento (string sp)
+
+        {
+            comando.CommandType = System.Data.CommandType.StoredProcedure;
+            comando.CommandText = sp;   
+
+
         }
 
         public void cerrarConexion()
